@@ -1,0 +1,10 @@
+1. 개발환경 준비 : 이클립스 내에서 Data Source 설정, 톰캣 설정
+2. 웹 프로젝트 추가 및 설정
+3. 깃(지역 저장소 : web03에서 git init/git config/git add/git commit/git push)/깃허브(원격 저장소 -> web03)
+4. VO생성(Board, Member) 전체 소스코드
+5. VOTest(JUnit을 활용한 BoardVO, MemberVO 등을 테스트 케이스 만들어 실행하기) 소스와 JUnit 결과화면
+6. MemberVO 관련의 모든 Ctrl/jsp 전체 소스 내용
+7. BoardVO 관련의 모든 Ctrl/jsp 전체 소스 내용
+8. 에러 수정 전/후의 에러화면/수정된 코드/정상화면
+9. MemberDAO 의 전체 소스 내용
+10. BoardDAO 의 전체 소스 내용
